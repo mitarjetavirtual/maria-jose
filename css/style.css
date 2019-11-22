@@ -124,6 +124,8 @@ a{
 @media only screen and (max-width: 600px) {
     .container-header{
         margin-top: 0;
+        position: absolute;
+        overflow-y: hidden;
     }
     .names{
         font-size: 60px;
